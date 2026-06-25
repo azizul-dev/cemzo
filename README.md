@@ -1,16 +1,46 @@
-# React + Vite
+Dear Kundan Singh,
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Thank you for providing me with the React Developer Intern Technical Assignment.
 
-Currently, two official plugins are available:
+I am pleased to submit my completed assignment for review.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Live Demo:
+https://cemzo-ten.vercel.app/
 
-## React Compiler
+GitHub Repository:
+https://github.com/azizul-dev/cemzo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Project Features:
 
-## Expanding the Oxlint configuration
+* Product Listing
+* Search Functionality
+* Category Filtering
+* Product Details Modal
+* Loading State
+* Error Handling
+* Responsive Design
+* Reusable Components
+* React Hooks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Tech Stack:
+
+* React.js
+* Vite
+* Tailwind CSS
+* Axios
+
+Please let me know if you require any additional information or clarification.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Best Regards,
+
+Md. Azizul Islam
+
+Phone: +8801788224542
+
+LinkedIn:
+https://www.linkedin.com/in/azizul-islam-dev/
+
+GitHub:
+https://github.com/azizul-dev
